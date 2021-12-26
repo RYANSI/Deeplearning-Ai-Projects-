@@ -1,14 +1,14 @@
 <div align="center">
     <h1>TensorFlow in Practice</h1>
     <h2>deeplearning.ai</h2>
-    <h3>Aaron Singh</h2>
+    <h3>Aaron </h2>
     <p>N.B.: Please don't use the assignment and quiz solution at first time, only use when you get stuck really bad situation. Try to solve the problem by yourself.</p>
 </div>
 
 
 ### About this Specialization
 <p>Discover the tools software developers use to build scalable AI-powered algorithms in TensorFlow, a popular open-source machine learning framework.<br/>
-In this four-course Specialization, you’ll explore exciting opportunities for AI applications. Begin by developing an understanding of how to build and train neural networks. Improve a network’s performance using convolutions as you train it to identify real-world images. You’ll teach machines to understand, analyze, and respond to human speech with natural language processing systems. Learn to process text, represent sentences as vectors, and input data to a neural network. You’ll even train an AI to create original poetry! - <a href="https://www.coursera.org/specializations/tensorflow-in-practice">Source</a></p>
+In this four-course Specialization, youâ€™ll explore exciting opportunities for AI applications. Begin by developing an understanding of how to build and train neural networks. Improve a networkâ€™s performance using convolutions as you train it to identify real-world images. Youâ€™ll teach machines to understand, analyze, and respond to human speech with natural language processing systems. Learn to process text, represent sentences as vectors, and input data to a neural network. Youâ€™ll even train an AI to create original poetry! - <a href="https://www.coursera.org/specializations/tensorflow-in-practice">Source</a></p>
 
 ### Resources
 * Huber Loss: https://en.wikipedia.org/wiki/Huber_loss
